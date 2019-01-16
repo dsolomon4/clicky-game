@@ -1,0 +1,65 @@
+[
+    {
+      "id": 1,
+      "name": "Tommy",
+      "image": "https://vignette.wikia.nocookie.net/rugratseries/images/1/1a/Tommy.jpg/revision/latest/scale-to-width-down/200?cb=20110202050218"
+    },
+    {
+      "id": 2,
+      "name": "Chuckie",
+      "image": "https://vignette.wikia.nocookie.net/rugratseries/images/b/b6/Chuckie.jpg/revision/latest/scale-to-width-down/200?cb=20110202050308"
+    },
+    {
+      "id": 3,
+      "name": "Phil",
+      "image": "https://vignette.wikia.nocookie.net/rugratseries/images/6/69/Phil.jpg/revision/latest/scale-to-width-down/200?cb=20110202050348"
+    },
+    {
+      "id": 4,
+      "name": "Lil",
+      "image": "https://vignette.wikia.nocookie.net/rugratseries/images/7/77/Lil.jpg/revision/latest/scale-to-width-down/200?cb=20110202050333"
+    },
+    {
+      "id": 5,
+      "name": "Angelica",
+      "image": "https://vignette.wikia.nocookie.net/rugratseries/images/2/2a/Angeilca.jpg/revision/latest/scale-to-width-down/200?cb=20110202050259"
+    },
+    {
+      "id": 6,
+      "name": "Susie",
+      "image": "https://vignette.wikia.nocookie.net/rugrats-babies/images/8/82/Susan.jpg/revision/latest/scale-to-width-down/232?cb=20110221082915"
+    },
+    {
+      "id": 7,
+      "name": "Dil",
+      "image": "https://vignette.wikia.nocookie.net/rugratseries/images/e/eb/Dil.jpg/revision/latest/scale-to-width-down/200?cb=20110202050320"
+    },
+    {
+      "id": 8,
+      "name": "Kimi",
+      "image": "https://vignette.wikia.nocookie.net/rugratseries/images/3/30/Kimi.jpg/revision/latest/scale-to-width-down/200?cb=20110202050505"
+    },
+    {
+      "id": 9,
+      "name": "Spike",
+      "image": "https://vignette.wikia.nocookie.net/rugrats-babies/images/d/de/Spike.png/revision/latest/scale-to-width-down/640?cb=20110221042402"
+    },
+    {
+      "id": 10,
+      "name": "Reptar",
+      "image": "https://upload.wikimedia.org/wikipedia/en/thumb/1/17/Reptar_from_Rugrats.png/220px-Reptar_from_Rugrats.png"
+    },
+    {
+      "id": 11,
+      "name": "Cynthia",
+      "image": "https://pbs.twimg.com/profile_images/2282479080/v2o9soymzl6ts6o7ayc7_400x400.png",
+      "occupation": "Superhero",
+      "location": "Earth"
+    },
+    {
+      "id": 12,
+      "name": "Grandpa Lou",
+      "image": "https://media.proprofs.com/images/QM/user_images/1990996/1513285639.jpg"
+    }
+  ]
+  

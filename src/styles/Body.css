@@ -1,0 +1,44 @@
+.nav{
+  background-color: #0277bd ;
+  height: 85px;
+  color: white;
+  box-shadow: 0px 5px 15px grey;
+  
+}
+
+.nav-item{
+    margin: 25px 120px;
+    font-size: 25px;
+}
+
+header {
+    background: url("../images/morocco-blue.png");
+    height: 300px;
+}
+
+.header-text{
+    padding-top: 150px;
+    text-align: center;
+    color: darkblue;
+}
+
+.footer-top{
+    background-color: #0091ea ;
+    height: 25px;
+}
+.footer-bottom{
+    height: 35px;
+    color: white;
+    margin: 15px;
+    text-align: center;
+    font-weight: bold;
+}
+
+footer{
+    background-color:#0277bd;
+}
+
+img{
+    height: 100px;
+    width: 100px
+}
