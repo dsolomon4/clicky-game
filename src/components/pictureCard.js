@@ -3,7 +3,7 @@ import "../styles/Game.css"
 
 function Cards (props){
     return(
-        <div className="container">
+        <div className="col">
             <div className="image-holder">
                 <img alt={props.alt} src={props.src}/>
             </div>
