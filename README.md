@@ -4,4 +4,4 @@ Click different pictures each time to count score to equal the total amount of p
 
 ## Technologies used
 
-React.js, yarn, node
+React.js, node
